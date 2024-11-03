@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? Well, you cant
 - 😄 Pronouns: I dont believe in those things
-- ⚡ Fun fact: I am also tech nerd
+- ⚡ Fun fact: I am also a tech nerd
 
 <!---
 Yash00dev/Yash00dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
