@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSS in my school
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? Well, you cant
-- 😄 Pronouns: I dont believe in those things
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a tech nerd
 
 <!---
